@@ -1,6 +1,8 @@
 # PowerFactor
 
-Merhaba! Bu kod parçacığı, gerilim ve akım örneklerini alarak güç faktörünü hesaplamak için kullanılıyor. 
+Stm32f103c8t6 mikrodenetleyicisi kullanarak yaptığım bir projeden; 
+
+Bu kod parçacığı, gerilim ve akım örneklerini alarak güç faktörünü hesaplamak için kullanılıyor. 
 
 Kodun temel işleyişine göz atalım:
 
