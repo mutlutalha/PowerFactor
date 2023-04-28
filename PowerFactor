@@ -3,8 +3,8 @@
 #include "arm_math.h"
 
 #define SAMPLES 1000
-#define VOLTAGE_TRANSFORMER_RATIO 1
-#define CURRENT_TRANSFORMER_RATIO 1
+#define VOLTAGE_TRANSFORMER_RATIO 1 // buradaki katsayı gerilim trafosunun dönüşüm oranıdır.
+#define CURRENT_TRANSFORMER_RATIO 1 // buradaki katsayı akım trafosunun dönüşüm oranıdır.
 #define ADC_RESOLUTION 4096.0
 #define VREF 3.3
 
